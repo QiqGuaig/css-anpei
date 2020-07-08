@@ -28,6 +28,11 @@ body{
     background: rgb(100, 77,255) url(img/invite-bg-group.png) no-repeat center 0/100%;
 }
 
+.bg-team {
+    min-height: 100vh;
+    background: rgb(100, 77,255) url(img/invite-bg-group.png) no-repeat center 0/100%;
+}
+
 .title{
     width: 325px;
     position: relative;
@@ -352,6 +357,15 @@ button{
     width: 15px;
     position: absolute;
     top: 760px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.team-down {
+    height: 45px;
+    width: 15px;
+    position: absolute;
+    top: 840px;
     left: 50%;
     transform: translateX(-50%);
 }
