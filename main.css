@@ -390,3 +390,39 @@ button{
     margin: auto auto;
     margin-top: 15px;
 }
+
+p {
+    font-size: 12px;
+    margin: auto auto;
+    width: 335px;
+}
+
+.ac-rule {
+    width: 84px;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-bottom: 14px;
+}
+
+.ac-condition {
+    width: 83px;
+    margin-left: 20px;
+}
+
+.ac-win {
+    width: 83px;
+    margin-left: 20px;
+    margin-top: 25px;
+}
+
+.ac-receive {
+    width: 83px;
+    margin-left: 20px;
+    margin-top: 25px;
+}
+
+.ac-else {
+    width: 83px;
+    margin-left: 20px;
+    margin-top: 25px;
+}
